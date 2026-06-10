@@ -1,0 +1,1 @@
+This was a project completed for my Embedded Systems class. My final project was to create a simple security system using a Raspberry Pi Pico, a motion sensor, two push buttons, a 4x4 keypad, and an LCD display.
