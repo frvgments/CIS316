@@ -10,7 +10,7 @@ const int BUZZER_PIN = 15;
 const int MOTION_PIN = 16;
 
 // --> Initialize Variables
-const int KEYPAD_PASSCODE = 1234
+const int KEYPAD_PASSCODE = 1234;
 bool access_granted = false;
 int pirState = LOW;
 int motionVal = 0;    
